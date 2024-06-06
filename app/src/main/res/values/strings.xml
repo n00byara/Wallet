@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Wallet</string>
+    <string name="xposed_description">Модуль для приложения Кошелек</string>
+</resources>

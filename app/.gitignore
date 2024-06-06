@@ -1,0 +1,4 @@
+/build
+/release
+/src/main/xposed_init
+/src/main/resources/META-INF/yukihookapi_init
